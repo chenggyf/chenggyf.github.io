@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Cheng Guo"
 title_separator          : "-"
 name                     : &name "Cheng Guo"
-description              : &description "personal description"
+description              : &description "Human-Centered Computing PhD student at Clemson University."
 url                      : https://chengguo-clemson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chengguo-clemson/chengguo-clemson.github.io"
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Cheng Guo"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
