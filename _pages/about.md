@@ -16,3 +16,4 @@ Previously, Cheng was a Visiting Researcher in the Human-Computer Interaction In
 ### News
 - 2016.05 Research Intern @ [Verisign Labs](https://www.verisign.com/en_US/company-information/verisign-labs/innovators/eric-osterweil/index.xhtml)
 - 2015.05 Win [HFES Student Design Competition](https://www.hfes.org/web/DetailNews.aspx?ID=371)! [<a href='https://upstatebusinessjournal.com/news/clemson-team-wins-mobile-app-competition/'><u>Media Coverage</u></a>]
+- 2014.05 @ PervasiveHealth 2014
