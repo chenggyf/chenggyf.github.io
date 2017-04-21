@@ -13,5 +13,6 @@ Cheng Guo is a thrid-year Human-Centered Computing PhD student of [School of Com
 Cheng holds a Master of Science in Information Science from the [University of Pittsburgh](https://www.ischool.pitt.edu/). He also holds a Bachelor of Business in E-Commerce from the [Swinburne University](https://www.swinburne.edu.au/) and a Bachelor of Management in E-Commerce from the [Nanjing University of Chinese Medicine](https://www.njutcm.edu.cn/).
 
 Previously, Cheng was a Visiting Researcher in the Human-Computer Interaction Institute at [Carnegine Mellon University](https://www.hcii.cmu.edu/) with Dr. [Jennifer Mankoff](https://make4all.org/people/jen-mankoff/). He also worked as a Research Intern at [Verisign Labs](https://www.verisign.com/en_US/company-information/verisign-labs/index.xhtml) with Dr. [Erci Osterweil](https://www.verisign.com/en_US/company-information/verisign-labs/innovators/eric-osterweil/index.xhtml) and a Software Engineer Intern at [AthleteTrax](https://athletetrax.info/).
-## News
-### 2016
+### News
+- 2016.05 ~ 08 Research Intern @ [Verisign Labs](https://www.verisign.com/en_US/company-information/verisign-labs/innovators/eric-osterweil/index.xhtml)
+- 2015.05 Win [HFES Student Design Competition](https://www.hfes.org/web/DetailNews.aspx?ID=371)!
