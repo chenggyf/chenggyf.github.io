@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 ## 2014
-C1. Crawford, J. L., **Guo, C.**, Schroeder, J., Arriaga, R. I., & Mankoff, J. (2014). Is it a question of trust?: how search preferences influence forum use. *PervasiveHealth 2014*. [<a class= 'btn btn-default btn-xs' href='https://dl.acm.org/citation.cfm?id=2686910'><u>link</u></a>]
+C1. Crawford, J. L., **Guo, C.**, Schroeder, J., Arriaga, R. I., & Mankoff, J. (2014). Is it a question of trust?: how search preferences influence forum use. *PervasiveHealth 2014*. [<a class= 'btn' href='https://dl.acm.org/citation.cfm?id=2686910'><u>link</u></a>]
