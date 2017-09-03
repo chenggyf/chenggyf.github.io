@@ -15,6 +15,6 @@ Cheng holds a Master of Science in Information Science from the [University of P
 Previously, Cheng was a Visiting Researcher in the Human-Computer Interaction Institute at [Carnegine Mellon University](https://www.hcii.cmu.edu/) with Dr. [Jennifer Mankoff](https://make4all.org/people/jen-mankoff/). He also worked as a Research Intern at [Verisign Labs](https://www.verisign.com/en_US/company-information/verisign-labs/index.xhtml) with Dr. [Eric Osterweil](https://www.verisign.com/en_US/company-information/verisign-labs/innovators/eric-osterweil/index.xhtml) and a Software Engineer Intern at [AthleteTrax](https://athletetrax.info/).
 ### News
 - 2017.07.31 Tenth Annual Furman Summer Research Conference (Psychology & Neuroscience) @ [Furman University](http://www.furman.edu/academics/psychology/Pages/default.aspx) 
-- 2016.05 Research Intern @ [Verisign Labs](https://www.verisign.com/en_US/company-information/verisign-labs/innovators/eric-osterweil/index.xhtml)
+- 2016.05 Research Intern @ [Verisign Labs](https://www.verisign.com/en_US/company-information/verisign-labs/technology-innovation-program/internship/index.xhtml)
 - 2015.05 Win [HFES Student Design Competition](https://www.hfes.org/web/DetailNews.aspx?ID=371)! [<a href='https://upstatebusinessjournal.com/news/clemson-team-wins-mobile-app-competition/'>Media</a>]
-- 2014.05 @ PervasiveHealth 2014
+- 2014.05 @ [PervasiveHealth](http://pervasivehealth.org/2014/show/home) 2014
