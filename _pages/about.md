@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Cheng Guo is a thrid-year Human-Centered Computing PhD student of [School of Computing at Clemson University](https://www.clemson.edu/cecas/departments/computing/). Cheng is working with Dr. [Kelly Caine](https://kellycaine.wordpress.com/) at [HATLab](https://www.hatlab.org/). Cheng is broadly interested in Usable Security & Privacy, Health Informatics and Social Computing. Currently, Cheng is investigating the relationship between identities and content quality in online communities.
+Cheng Guo is a Human-Centered Computing PhD student of [School of Computing at Clemson University](https://www.clemson.edu/cecas/departments/computing/). Cheng is working with Dr. [Kelly Caine](https://kellycaine.wordpress.com/) at [HATLab](https://www.hatlab.org/). Cheng is broadly interested in Usable Security & Privacy, Health Informatics and Social Computing. Currently, Cheng is investigating the relationship between identities and content quality in online communities.
 
 Cheng holds a Master of Science in Information Science from the [University of Pittsburgh](https://www.ischool.pitt.edu/). He also holds a Bachelor of Business in E-Commerce from the [Swinburne University](https://www.swinburne.edu.au/) and a Bachelor of Management in E-Commerce from the [Nanjing University of Chinese Medicine](https://www.njutcm.edu.cn/).
 
