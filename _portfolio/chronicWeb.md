@@ -5,7 +5,7 @@ collection: portfolio
 ---
 2013 - 2014  Carnegie Mellon University
 
-I presendted this at [PervasiveHealth'14](http://pervasivehealth.org/2014/show/home). See the [paper](http://chengguo.info/pervasivehealth'14.pdf) and the [slides](http://chengguo.info/PervasiveHealth'14_slides.pdf) of my talk.
+I presendted this study at [PervasiveHealth'14](http://pervasivehealth.org/2014/show/home). See the [paper](http://chengguo.info/pervasivehealth'14.pdf) and the [slides](http://chengguo.info/PervasiveHealth'14_slides.pdf) of my talk.
 
 Searching for health information online is becoming increasingly
 common. The variety of peer reports and facts available online is
