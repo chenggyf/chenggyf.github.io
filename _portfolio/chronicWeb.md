@@ -3,7 +3,7 @@ title: "Chronic Web"
 excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
-Year: 2013 - 2014  Carnegie Mellon University
+2013 - 2014  Carnegie Mellon University
 
 Searching for health information online is becoming increasingly
 common. The variety of peer reports and facts available online is
