@@ -23,5 +23,6 @@ Our design process resulted in *Hermes*, a mobile application concept that allow
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 **Design process**
+
 ***Initial mock-ups***
 
