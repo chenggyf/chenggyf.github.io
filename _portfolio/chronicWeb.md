@@ -1,6 +1,6 @@
 ---
 title: "Chronic Web"
-excerpt: "Trust in experiential vs. factual health information <br/><img src='/images/pervasiveHealth14.png' width='250'>"
+excerpt: "Trust in experiential vs. factual health information <br/><img src='/images/pervasiveHealth14.png' width='400'>"
 collection: portfolio
 ---
 2013 - 2014  Carnegie Mellon University
