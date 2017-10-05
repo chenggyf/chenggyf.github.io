@@ -79,5 +79,8 @@ Testing of the second iteration revealed two primary problem areas: the photo re
 Only one participant was unable to use the custom setting tool, but half were confused during the process:
 
 *“So does it share now or later? I feel like it needs checkboxes.” P8*
+
 *“I don’t understand what happens when I press these; am I immediately sharing when I select them?” P9*
+
+In addition, participants highlighted several problem areas in time restriction section, highlighting the need for better terminology and feedback. Testing also provided preliminary support for the efficacy of several designs: Switching between users, using the text search to find providers, and using the preset options were easily utilized by all users in this iteration.
 
