@@ -9,4 +9,4 @@ In online question and answer (Q&A) communities people share and discuss informa
 The overall amount of user engagement and the quality of that engagement may differ depending on the identity policy of a site. 
 Little is known about how different identity policies affect users' engagement, site interaction and answer quality. 
 In this project, we investigate the relationship between quality of answers, user engagement, and trolling behavior with different identity policies. 
-We provide design implications about identity policy for Q&A site administrators and implications for Q\&A site users about identity choice.
+We provide design implications about identity policy for Q&A site administrators and implications for Q&A site users about identity choice.
