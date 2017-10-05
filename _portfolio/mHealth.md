@@ -61,3 +61,4 @@ The results from this testing resulted in several concrete recommendations for o
 
 ### Iteration 2
 #### Design
+An interactive iteration of Hermes was developed on the JustinMind software for the second iteration. Given our push towards high accessibility and simplicity, we adopted many of Google’s Material Design guidelines beginning with this iteration. As designers of a health application that may be operated by older, inexperienced, or disabled users, we appreciated the strictures of simplicity, bold design, and visual cueing. With this consideration, we chose an easily legible typeface in a font size larger than 12 point, and worked towards creating large interaction areas and simple, intuitive text, per the recommendation of the National Institute on Aging.
