@@ -106,7 +106,7 @@ The final user-tested iteration was similar to its predecessor, featuring signif
 The fourth iteration is the most recent to have been user tested. We utilized the same think aloud protocol and task list as the prior iterations.
 
 #### Results
-![](/images/mHealth-5.png)
+<img src='/images/mHealth-5.png' width="420">
 
 *1)Home screen 2)Presets screen*
 
