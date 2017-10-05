@@ -19,7 +19,7 @@ To design a mobile application that enables the privacy options patients require
 
 **Final Design**
 
-Our design process resulted in *Hermes*, a mobile application concept that allows users to select a provider and choose which health information can be accessed by that provider. These privacy options have been informed by patients’ own preferences and the design has been informed by 24 participants in multiple iterative cycles. The application is intuitive and simple to use, allowing sharing settings to be created in moments with little information required from the user. Hermes promises to not only enhance privacy, but also to ease the overall EHR transfer process from both the patient and provider perspectives.
+Our design process resulted in _Hermes_, a mobile application concept that allows users to select a provider and choose which health information can be accessed by that provider. These privacy options have been informed by patients’ own preferences and the design has been informed by 24 participants in multiple iterative cycles. The application is intuitive and simple to use, allowing sharing settings to be created in moments with little information required from the user. Hermes promises to not only enhance privacy, but also to ease the overall EHR transfer process from both the patient and provider perspectives.
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 **Design process**
