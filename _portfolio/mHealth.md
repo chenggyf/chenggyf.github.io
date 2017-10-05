@@ -120,7 +120,10 @@ However, participants appreciated more than physical appearance. Likert-scale ra
 ------------------------------------------------------------------------------------------------------------------------------------------
 ## Final design
 ![](/images/mHealth-6.png)
+
 ![](/images/mHealth-7.png)
+
 ![](/images/mHealth-8.png)
+
 ![](/images/mHealth-9.png)
 
