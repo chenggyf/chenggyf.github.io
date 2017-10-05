@@ -84,3 +84,13 @@ Only one participant was unable to use the custom setting tool, but half were co
 
 In addition, participants highlighted several problem areas in time restriction section, highlighting the need for better terminology and feedback. Testing also provided preliminary support for the efficacy of several designs: Switching between users, using the text search to find providers, and using the preset options were easily utilized by all users in this iteration.
 
+### Iteration 3
+#### Design
+The third iteration built upon the previous interactive prototype, incorporating cueing, adding more options, and dramatically changing the custom information selection interface based on user input. Additionally, this iteration began an increased focus on consistency across button placements and sizes.
+
+#### User Testing
+This iteration used the same user testing methods as its predecessor: the think-aloud protocol and previously utilized task set. 
+
+#### Results
+![](/images/mHealth-4.png)
+The third iteration was more successful than its predecessors in user testing; only the scan text and emergency sharing setting were not usable by more than 1 participant. Notably, when tasked to find a provider, all participants initially used the text search function (Fig. 11). That interface succeeded in being both intuitive and hedonic— users were familiar with text searching, but were also pleased by the autocomplete function:
