@@ -38,3 +38,18 @@ Mock-ups of the first iteration were refined from the initial paper concepts and
 *Text search method for finding a provider; Custom setting A and B, from left to right.*
 
 #### User testing
+The first stage of user testing utilized the mobile application Prototyping On Paper (POP). Our design team tested seven participants with this method. The application’s purpose was explained to each participant, before they were presented with the POP prototype running on an iPhone and given 9 brief tasks to complete in succession:
+
+1. Log in to the app
+2. Switch to a different user
+3. Share this user’s health information
+4. Share with Fairfax General Hospital:
+4a. Text search
+4b. Scan text
+5. Select information to share:
+5a. Use presets
+5b. Use presets
+6. Create custom setting
+7. Create time restriction
+8. Finalize sharing setting
+9. Finalize sharing setting
