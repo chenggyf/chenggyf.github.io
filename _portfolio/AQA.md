@@ -1,6 +1,6 @@
 ---
 title: "AQA"
-excerpt: "How does anonymity affect user online behavior and content quality? <br/><img src='/images/anonymity.jpg' width='400'>"
+excerpt: "How does anonymity affect user online behavior and the quality of user-generated content? <br/><img src='/images/anonymity.jpg' width='400'>"
 collection: portfolio
 ---
 2016 - present  Clemson University
