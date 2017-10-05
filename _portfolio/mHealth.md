@@ -35,7 +35,7 @@ The first, conceptual phase of development involved the creation of multiple pap
 Mock-ups of the first iteration were refined from the initial paper concepts and created using the graphics editor Photoshop and the Microsoft Word word. This iteration included all of the primary features of the final application: 1) Login; 2) User Selection; 3) Provider Selection; 4) Information Selection; 5) Time Restriction; 6) Review of Sharing Setting; and 7) Sharing Verification. Crucially, the provider selection and custom information selection both offered alternate interactions: each had an A and B version of the interface, using different methods to achieve the same goals.
 ![](/images/mHealth-2.png)
 
-*Text search method for finding a provider; Custom setting A and B, from left to right; Preset wheel of information selection*
+*1)Text search method for finding a provider 2)Custom setting A and 3)B, from left to right 4)Preset wheel of information selection*
 
 #### User testing
 The first stage of user testing utilized the mobile application Prototyping On Paper (POP). Our design team tested seven participants with this method. The application’s purpose was explained to each participant, before they were presented with the POP prototype running on an iPhone and given 9 brief tasks to complete in succession:
