@@ -93,4 +93,26 @@ This iteration used the same user testing methods as its predecessor: the think-
 
 #### Results
 ![](/images/mHealth-4.png)
-The third iteration was more successful than its predecessors in user testing; only the scan text and emergency sharing setting were not usable by more than 1 participant. Notably, when tasked to find a provider, all participants initially used the text search function (Fig. 11). That interface succeeded in being both intuitive and hedonic— users were familiar with text searching, but were also pleased by the autocomplete function:
+
+The third iteration was more successful than its predecessors in user testing; only the scan text and emergency sharing setting were not usable by more than 1 participant. Notably, when tasked to find a provider, all participants initially used the text search function. That interface succeeded in being both intuitive and hedonic— users were familiar with text searching, but were also pleased by the autocomplete function:
+
+### Iteration 4
+#### Design
+The final user-tested iteration was similar to its predecessor, featuring significant changes at the preset, summary, and sharing verification screens. These changes utilized the gestalt principles of similarity and proximity to improve the usability of weak areas highlighted by user testing. 
+
+
+#### User testing
+The fourth iteration is the most recent to have been user tested. We utilized the same think aloud protocol and task list as the prior iterations.
+
+#### Results
+![](/images/mHealth-5.png)
+*1)Home screen 2)Presets screen*
+
+Our final user testing supported the usability of Hermes’ primary features, revealing only two notable usability issues (See appendix for results). One-fourth of participants failed to switch users because they did not notice the triple ellipses under the user pictures (Fig. 12.1). This may not be an issue in the full application, as the user would personally add each additional profile. Regardless, this error prompted increased salience of the ellipses in the final iteration. A separate issue arose in regard to the Emergency button-- users saw and could operate the button, but two did not intuitively understand the purpose or benefit of using the feature (Fig. 12.2). That advantage was correctly summarized by one participant as follows: 
+
+*“It’s an emergency, so you have a limited amount of time to go through the app. You want to share now, it’s like a 911 situation.” P21*
+
+This response in particular prompted the final iteration to keep the familiar red cross symbol while renaming it “Share Now”. Similar changes were enacted throughout the app based on participant feedback. Examples include changing a checkmark to an arrow to avoid misinterpretation, and changing other labels to become more intuitive. This iteration also received the greatest quantity of positive feedback, with users complimenting the large buttons, persistent picture ID, 3-step progress bar, and *“pleasant” colors (P24)*. 
+
+However, participants appreciated more than physical appearance. Likert-scale ratings after the usability test revealed that many participants would gladly use Hermes; On a 10 point scale where 1 is unlikely and 10 is likely, fully half of this iteration’s participants selected nine, indicating that they would almost definitely use this product.
+
