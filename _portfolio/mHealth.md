@@ -1,6 +1,6 @@
 ---
 title: "mHealth"
-excerpt: "Hermes: A Patient-Facing Mobile Application for the Privacy-Enhanced Transfer of Electronic Health Records <br/><img src='/images/mHealth-t.png'>"
+excerpt: "Hermes: A Patient-Facing Mobile Application for the Privacy-Enhanced Transfer of Electronic Health Records <br/><img src='/images/mHealth-t.png' width='210'>"
 collection: portfolio
 ---
 2014 - 2015  Clemson University  
