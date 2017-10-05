@@ -25,12 +25,12 @@ Our design process resulted in Hermes, a mobile application concept that allows 
 
 ## Design process
 
-## Initial mock-ups
+### Initial mock-ups
 
 The first, conceptual phase of development involved the creation of multiple paper prototypes. Creating such prototypes assisted the designers in conceptualizing the workflow and functionality of the primary elements. Outside of conceptualizing a standard template for navigation, we did not use wireframes or other graphic tools in this stage, concerned that such tools may engender a focus on layout and restrict originality. 
 ![](/images/mHealth-1.png)
 
-## Iteration 1
+### Iteration 1
 
 Mock-ups of the first iteration were refined from the initial paper concepts and created using the graphics editor Photoshop and the Microsoft Word word. This iteration included all of the primary features of the final application: 1) Login; 2) User Selection; 3) Provider Selection; 4) Information Selection; 5) Time Restriction; 6) Review of Sharing Setting; and 7) Sharing Verification. Crucially, the provider selection and custom information selection both offered alternate interactions: each had an A and B version of the interface, using different methods to achieve the same goals.
 ![](/images/mHealth-2.png)
