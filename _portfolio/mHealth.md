@@ -57,7 +57,7 @@ The first stage of user testing utilized the mobile application Prototyping On P
 The POP test was combined with a concurrent think-aloud protocol, as we requested participants to speak their inner-monologue as those thoughts occurred. The resulting qualitative data was combined with simple quantitative results and personal heuristic evaluations to provide design recommendations for the following iteration.
 
 #### Results
-The results from this testing resulted in several concrete recommendations for our next iteration, particularly in regard to the more novel interface designs. All participants were successfully able to find a provider using the text search method (see Design), yet 43% of participants had trouble searching for a provider using the photo tool. In particular, the labeling of “Photo Recognition” proved confusing, with one participant suggesting that it implied facial recognition. However, most users successfully intuited its function after viewing the interface. On the information selection interface, the preset wheel (see Design) and one of the custom settings (see Design) both relied on a swipe functionality. However, without a cue as to the required action both UIs were ineffective for 43% of users, largely due to a tendency towards clicking rather than swiping. The Emergency Room sharing option, labeled as “ER” on the preset screen, was problematic for 57% of participants. Analysis revealed two distinct problems: users did not notice the button, or did not interpret “ER” as emergency room.  Finally, the time restriction feature saw a 29% failure rate. This was again due to users attempting to click rather than swipe, but in this specific instance we attribute the usability failure to the low fidelity of the year scroller; the feature we designed may have not closely resembled the scrolling feature intended.
+The results from this testing resulted in several concrete recommendations for our next iteration, particularly in regard to the more novel interface designs. All participants were successfully able to find a provider using the text search method (see 1)Text search), yet 43% of participants had trouble searching for a provider using the photo tool. In particular, the labeling of “Photo Recognition” proved confusing, with one participant suggesting that it implied facial recognition. However, most users successfully intuited its function after viewing the interface. On the information selection interface, the preset wheel (see 4)Preset wheel) and one of the custom settings (see 3)Custom B) both relied on a swipe functionality. However, without a cue as to the required action both UIs were ineffective for 43% of users, largely due to a tendency towards clicking rather than swiping. The Emergency Room sharing option, labeled as “ER” on the preset screen, was problematic for 57% of participants. Analysis revealed two distinct problems: users did not notice the button, or did not interpret “ER” as emergency room.  Finally, the time restriction feature saw a 29% failure rate. This was again due to users attempting to click rather than swipe, but in this specific instance we attribute the usability failure to the low fidelity of the year scroller; the feature we designed may have not closely resembled the scrolling feature intended.
 
 ### Iteration 2
 #### Design
@@ -65,3 +65,19 @@ An interactive iteration of Hermes was developed on the JustinMind software for 
 
 This iteration also dramatically changed presets and the custom interaction selection. In terms of interactions, nearly all swipe features were traded for a familiar click interaction. In the preset screen, the wheel was exchanged for a horizontal bar of clickable, visually-associated preset options.  Our custom setting interface largely kept the previous design, exchanging swipes for clicks as the driving interaction. The exception was switching users, which did retain a swipe feature. Crucially, this interaction was cued by a static feature: dots beneath the primary user’s profile picture cue the user to the existence of more users. The resulting wireframe could be simulated on mobile devices, allowing real-time interactions, gestures, and animations within a mobile context. Simultaneously, the relatively simple nature of the design permitted rapid iteration.
 ![](/images/mHealth-3.png)
+
+*1)Home screen 2)Presets screen 3)Text recognition 4)Custom*
+
+#### User testing
+Development of this iteration was followed by the concurrent think-aloud protocol with a similar set of tasks and questions. While much of the methodology rolled over from the previous iteration, the real-time interaction was a significant asset for testing. JustinMind specifically enabled more flexibility with interactions and gestures, as well as allowing information cueing through motion and transitions. These new interactions were tested with the help of older participants, seeking feedback on usability from a source outside of our standard 20-30 age group.
+
+#### Results
+Testing of the second iteration revealed two primary problem areas: the photo recognition feature and the custom selector. Half of participants were unable to initially use the text recognition tool, being confused by the terminology (See 3)Text recognition). One participant suggested:
+
+*“Every app I have with something similar uses the word ‘Scan’. Maybe ‘scan text’.”  P10*
+
+Only one participant was unable to use the custom setting tool, but half were confused during the process:
+
+*“So does it share now or later? I feel like it needs checkboxes.” P8*
+*“I don’t understand what happens when I press these; am I immediately sharing when I select them?” P9*
+
