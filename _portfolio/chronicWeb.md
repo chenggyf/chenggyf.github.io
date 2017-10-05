@@ -1,5 +1,5 @@
 ---
-title: "Chronic Web
+title: "Chronic Web"
 excerpt: "Trust in experiential vs. factual health information <br/><img src='/images/pervasiveHealth14.png'>"
 collection: portfolio
 ---
