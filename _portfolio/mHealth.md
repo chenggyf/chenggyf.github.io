@@ -44,9 +44,11 @@ The first stage of user testing utilized the mobile application Prototyping On P
 2. Switch to a different user
 3. Share this user’s health information
 4. Share with Fairfax General Hospital:
+
 4a. Text search
 4b. Scan text
 5. Select information to share:
+
 5a. Use presets
 5b. Use presets
 6. Create custom setting
