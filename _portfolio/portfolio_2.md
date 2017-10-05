@@ -1,6 +1,6 @@
 ---
 title: "crowdSec"
-excerpt: "Using video chat as a alternative way for authentication <br/><img src='/images/authentication.jpg'>"
+excerpt: "Using video chat as a alternative way for authentication <br/><img src='/images/authentication.jpg' width='400'>"
 collection: portfolio
 ---
 2016 - Present  Clemson University
