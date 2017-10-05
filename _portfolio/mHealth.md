@@ -13,7 +13,7 @@ Health Information Technology (HIT) has grown exponentially in the past decade, 
 
 This project seeks to fulfill the mandate for privacy options by utilizing previously existent research as the framework for a mobile EHR sharing tool. Enabling users to share their health information in the context of the medical encounter, our application grants patients the ability to control what information is shared with each respective provider. This level of control may assuage patients’ privacy concerns, which can in turn reduce the strength and frequency of negative privacy maintenance behaviors. These behaviors, such as lying to providers or avoiding care, directly damage health outcomes. Negating the circumstances for such actions negates the harm, improving overall health outcomes.
 
-##Design Method
+## Design Method
 
 To design a mobile application that enables the privacy options patients require, our team employed an iterative process beginning with a literature review and development of specific solutions. This was followed by multiple conceptualizations and an initial prototype concept. This concept began a five-stage iterative design process, including four cycles of user testing. User testing employed a think-aloud protocol, and was combined with continuous informal heuristically analysis by our design team. Combined, these methods informed the structured design and development process.
 
@@ -106,13 +106,19 @@ The fourth iteration is the most recent to have been user tested. We utilized th
 
 #### Results
 ![](/images/mHealth-5.png)
+
 *1)Home screen 2)Presets screen*
 
-Our final user testing supported the usability of Hermes’ primary features, revealing only two notable usability issues (See appendix for results). One-fourth of participants failed to switch users because they did not notice the triple ellipses under the user pictures (Fig. 12.1). This may not be an issue in the full application, as the user would personally add each additional profile. Regardless, this error prompted increased salience of the ellipses in the final iteration. A separate issue arose in regard to the Emergency button-- users saw and could operate the button, but two did not intuitively understand the purpose or benefit of using the feature (Fig. 12.2). That advantage was correctly summarized by one participant as follows: 
+Our final user testing supported the usability of Hermes’ primary features, revealing only two notable usability issues (See appendix for results). One-fourth of participants failed to switch users because they did not notice the triple ellipses under the user pictures (See 1)Home screen). This may not be an issue in the full application, as the user would personally add each additional profile. Regardless, this error prompted increased salience of the ellipses in the final iteration. A separate issue arose in regard to the Emergency button-- users saw and could operate the button, but two did not intuitively understand the purpose or benefit of using the feature (See 2)Presets screen). That advantage was correctly summarized by one participant as follows: 
 
 *“It’s an emergency, so you have a limited amount of time to go through the app. You want to share now, it’s like a 911 situation.” P21*
 
 This response in particular prompted the final iteration to keep the familiar red cross symbol while renaming it “Share Now”. Similar changes were enacted throughout the app based on participant feedback. Examples include changing a checkmark to an arrow to avoid misinterpretation, and changing other labels to become more intuitive. This iteration also received the greatest quantity of positive feedback, with users complimenting the large buttons, persistent picture ID, 3-step progress bar, and *“pleasant” colors (P24)*. 
 
 However, participants appreciated more than physical appearance. Likert-scale ratings after the usability test revealed that many participants would gladly use Hermes; On a 10 point scale where 1 is unlikely and 10 is likely, fully half of this iteration’s participants selected nine, indicating that they would almost definitely use this product.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+## Final design
+![](/images/mHealth-6.png)
+
 
