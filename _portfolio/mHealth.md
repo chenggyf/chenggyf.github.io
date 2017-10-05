@@ -26,4 +26,7 @@ Our design process resulted in Hermes, a mobile application concept that allows 
 **Design process**
 
 ***Initial mock-ups***
+
 The first, conceptual phase of development involved the creation of multiple paper prototypes. Creating such prototypes assisted the designers in conceptualizing the workflow and functionality of the primary elements. Outside of conceptualizing a standard template for navigation, we did not use wireframes or other graphic tools in this stage, concerned that such tools may engender a focus on layout and restrict originality. 
+
+![alt-text-1](/images/mHealth-1 "title-1") ![alt-text-2](/images/mHealth-2 "title-2") ![alt-text-3](/images/mHealth-3 "title-3")
