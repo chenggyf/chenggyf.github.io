@@ -14,6 +14,7 @@ Cheng holds a Master of Science in Information Science from the [University of P
 
 Previously, Cheng was a Visiting Researcher in the Human-Computer Interaction Institute at [Carnegine Mellon University](https://www.hcii.cmu.edu/) with Dr. [Jennifer Mankoff](https://make4all.org/people/jen-mankoff/). He also worked as a Research Intern at [Verisign Labs](https://www.verisign.com/en_US/company-information/verisign-labs/index.xhtml) with Dr. [Eric Osterweil](https://www.verisign.com/en_US/company-information/verisign-labs/innovators/eric-osterweil/index.xhtml) and a Software Engineer Intern at [AthleteTrax](https://athletetrax.info/).
 ### News
+- 2018.02 One paper submitted to [ICHI'18](http://hpr.weill.cornell.edu/divisions/health_informatics/ieee_ichi.html)
 - 2018.02 One paper submitted to [USENIX Security](https://www.usenix.org/conference/usenixsecurity18)
 - 2017.11 One paper submitted to [IMWUT](https://imwut.acm.org/) (Ubicomp'18)
 - 2017.09 One paper submitted to [CHI'18](https://chi2018.acm.org/)
