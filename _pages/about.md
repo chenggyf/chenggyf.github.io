@@ -14,16 +14,10 @@ Cheng holds a Master of Science in Information Science from the [University of P
 
 Previously, Cheng was a Visiting Researcher in the Human-Computer Interaction Institute at [Carnegine Mellon University](https://www.hcii.cmu.edu/) with Dr. [Jennifer Mankoff](https://make4all.org/people/jen-mankoff/). He also worked as a Research Intern at [Verisign Labs](https://www.verisign.com/en_US/company-information/verisign-labs/index.xhtml) with Dr. [Eric Osterweil](https://www.verisign.com/en_US/company-information/verisign-labs/innovators/eric-osterweil/index.xhtml) and a Software Engineer Intern at [AthleteTrax](https://athletetrax.info/).
 ### News
-- 2018.05 Ph.D. Intern @[Brave](https://brave.com/)
+- 2018.05 Ph.D. Research Intern @[Brave](https://brave.com/)
 - 2018.05 Joined the Program Committee of [OzCHI'18](http://www.ozchi.org/2018/)
 - 2018.05 Doctoral Consortium accpeted @[PervasiveHealth'18](http://pervasivehealth.org/)
-- 2018.04 One paper submitted to [CSCW'18](https://cscw.acm.org/2018/)
-- 2018.02 One paper submitted to [ICHI'18](http://hpr.weill.cornell.edu/divisions/health_informatics/ieee_ichi.html)
-- 2018.02 One paper submitted to [USENIX Security](https://www.usenix.org/conference/usenixsecurity18)
-- 2017.11 One paper submitted to [IMWUT](https://imwut.acm.org/) (Ubicomp'18)
-- 2017.09 One paper submitted to [CHI'18](https://chi2018.acm.org/)
-- 2017.07 One paper submitted to [Group'18](https://group.acm.org/conferences/group18/)
 - 2017.07 Tenth Annual Furman Summer Research Conference (Psychology & Neuroscience) @ [Furman University](http://www.furman.edu/academics/psychology/Pages/default.aspx) 
-- 2016.05 Research Intern @ [Verisign Labs](https://www.verisign.com/en_US/company-information/verisign-labs/technology-innovation-program/internship/index.xhtml)
+- 2016.05 Ph.D. Research Intern @ [Verisign Labs](https://www.verisign.com/en_US/company-information/verisign-labs/technology-innovation-program/internship/index.xhtml)
 - 2015.05 Win [HFES Student Design Competition](http://newsstand.clemson.edu/mediarelations/students-health-application-wins-international-competition/)! [<a href='https://upstatebusinessjournal.com/news/clemson-team-wins-mobile-app-competition/'>Media</a>]
 - 2014.05 @ [PervasiveHealth](http://pervasivehealth.org/2014/show/home) 2014
