@@ -17,6 +17,7 @@ Previously, Cheng was a Visiting Researcher in the Human-Computer Interaction In
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/en_US)
 ### News
 - 2019.05 UX Research Intern @[Google](https://cloud.google.com/security/) NYC
+- 2019.05 Joined the Program Committee of [OzCHI'19](http://ozchi2019.visemex.org/wp/) & [Group'20](https://group.acm.org/conferences/group20/)
 - 2018.05 Ph.D. Research Intern @[Brave](https://brave.com/)
 - 2018.05 Joined the Program Committee of [OzCHI'18](http://www.ozchi.org/2018/)
 - 2018.05 Doctoral Consortium accpeted @[PervasiveHealth'18](http://pervasivehealth.org/)
