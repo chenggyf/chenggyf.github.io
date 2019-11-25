@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2020
-**Guo, C.** (2018). Identity and Behavior in Online Communities. In *GROUP 2020*.
+**Guo, C.** (2020). Identity and Behavior in Online Communities. In *GROUP 2020*.
 ## 2018
 **Guo, C.** (2018). Identity and Behavior in Online Health Communities. In *PervasiveHealth 2018*.
 ## 2014
