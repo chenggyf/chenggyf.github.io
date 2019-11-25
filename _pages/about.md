@@ -15,6 +15,7 @@ Cheng holds a Master of Science in Information Science from the [University of P
 Previously, Cheng was a Visiting Researcher in the Human-Computer Interaction Institute at [Carnegie Mellon University](https://www.hcii.cmu.edu/) with Dr. [Jennifer Mankoff](https://make4all.org/people/jen-mankoff/). He also worked as a Ph.D. Research Intern at [Verisign Labs](https://www.verisign.com/en_US/company-information/verisign-labs/index.xhtml) with Dr. [Eric Osterweil](https://cs.gmu.edu/directory/detail/79/), a Ph.D. Research Intern at [Brave](https://brave.com/) with Dr. [Ben Livshits](https://www.doc.ic.ac.uk/~livshits/) and a Software Engineer Intern at [AthleteTrax](https://athletetrax.info/).
 
 ### News
+- 2019.11 Joined the Program Committee of [CHI'20 Later-Breaking Works](https://chi2020.acm.org/authors/late-breaking-works/)
 - 2019.05 UX Research Intern @[Google](https://cloud.google.com/security/) NYC
 - 2019.05 Joined the Program Committee of [OzCHI'19](http://ozchi2019.visemex.org/wp/) & [Group'20](https://group.acm.org/conferences/group20/)
 - 2018.05 Ph.D. Research Intern @[Brave](https://brave.com/)
