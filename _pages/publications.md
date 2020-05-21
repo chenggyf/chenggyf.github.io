@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2020
-**Cheng Guo**, and Kelly Caine. (2020). Anonymity in Question and Answers about Health. In *HFES 2020*.
+**Cheng Guo** and Kelly Caine. (2020). Anonymity in Question and Answers about Health. In *HFES 2020*.
 
 **Cheng Guo** (2020). Identity and Behavior in Online Communities. In *GROUP 2020*.
 ## 2018
