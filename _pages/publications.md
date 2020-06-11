@@ -9,7 +9,7 @@ author_profile: true
 
 **Cheng Guo** (2020). Identity and Behavior in Online Communities. In *Companion of the 2020 ACM International Conference on Supporting Group Work* (pp. 35-38).
 ## 2018
-**Cheng Guo** (2018). Identity and Behavior in Online Health Communities. In *12th EAI International Conference on Pervasive Computing Technologies for Healthcare–Demos, Posters, Doctoral Colloquium*. European Alliance for Innovation (EAI).
+**Cheng Guo** (2018). Identity and Behavior in Online Health Communities. In *12th EAI International Conference on Pervasive Computing Technologies for Healthcare–Demos, Posters, Doctoral Colloquium*.
 ## 2014
 Jamie L. Crawford, **Cheng Guo**, Jessica Schroeder, Rosa I. Arriaga, and Jennifer Mankoff (2014). Is it a question of trust?: how search preferences influence forum use. In *Proceedings of the 8th International Conference on Pervasive Computing Technologies for Healthcare* (pp. 118-125). <a class= 'btn--info' href='https://dl.acm.org/citation.cfm?id=2686910'>link</a>
 
