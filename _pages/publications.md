@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2020
-**Cheng Guo** and Kelly Caine. (2020). Anonymity in Question and Answers about Health. In *Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 64*.
+**Cheng Guo** and Kelly Caine. (2020). Anonymity in Questions and Answers about Health. In *Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 64*.
 
 **Cheng Guo** (2020). Identity and Behavior in Online Communities. In *Companion of the 2020 ACM International Conference on Supporting Group Work* (pp. 35-38).
 ## 2018
