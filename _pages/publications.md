@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2021
+**Cheng Guo**, Brianne Campbell, Apu Kapadia, Michael Reiter, Kelly Caine. (2021). Effect of Mood, Location, Trust, and Presence of Others on Video-Based Social Authentication. *In Proceedings of the 30th USENIX Security Symposium (USENIX Security' 21)*.
 ## 2020
 **Cheng Guo** and Kelly Caine. (2020). Anonymity in Questions and Answers about Health. In *Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 64*.
 
