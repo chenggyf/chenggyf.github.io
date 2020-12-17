@@ -7,12 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-#### I am looking for UX Researcher / HCI Research Scientist / Human Factors Engineer opportunities!
 Cheng Guo is a Human-Centered Computing P.h.D ~~student~~ Candidate of [School of Computing at Clemson University](https://www.clemson.edu/cecas/departments/computing/). Cheng is working with Dr. [Kelly Caine](https://kellycaine.wordpress.com/) at [HATLab](https://www.hatlab.org/). Cheng is broadly interested in Usable Security & Privacy, Health Informatics and Social Computing. Currently, Cheng is investigating the relationship between identities and user behavior on Social Media Platforms.
 
 Cheng holds a Master of Science in Information Science from the [University of Pittsburgh](https://www.ischool.pitt.edu/). He also holds a Bachelor of Business in E-Commerce from the [Swinburne University of Technology](https://www.swinburne.edu.au/) and a Bachelor of Management in E-Commerce from the [Nanjing University of Chinese Medicine](https://www.njutcm.edu.cn/).
 
 Previously, Cheng was a Visiting Researcher in the Human-Computer Interaction Institute at [Carnegie Mellon University](https://www.hcii.cmu.edu/) with Dr. [Jennifer Mankoff](https://make4all.org/people/jen-mankoff/). He also worked as a Ph.D. UX Research Intern at [Google](https://cloud.google.com/security) with Dr. [Rob Reeder](https://www.robreeder.com/), a Ph.D. Research Intern at [Verisign Labs](https://www.verisign.com/en_US/company-information/verisign-labs/index.xhtml) with Dr. [Eric Osterweil](https://cs.gmu.edu/directory/detail/79/), a Ph.D. Research Intern at [Brave](https://brave.com/) with Dr. [Ben Livshits](https://www.doc.ic.ac.uk/~livshits/), and a Software Engineer Intern at [AthleteTrax](https://athletetrax.info/).
+
+#### I am looking for UX Researcher / HCI Research Scientist / Human Factors Engineer opportunities!
 
 ### News
 - 2020.12 Joined the Program Committee of [CHI'21 Later-Breaking Works](https://chi2021.acm.org/for-authors/presenting/late-breaking-work)
