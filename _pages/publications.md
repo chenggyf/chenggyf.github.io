@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2021
-**Cheng Guo** and Kelly Caine. (2021). Anonymity, User Engagement, Quality, and Trolling on Q&A Sites. *In Proceedings of the ACM on Human-Computer Interaction, 5(CSCW, to appear)*.
+**Cheng Guo** and Kelly Caine. (2021). Anonymity, User Engagement, Quality, and Trolling on Question & Answer Sites. *In Proceedings of the ACM on Human-Computer Interaction, 5(CSCW, to appear)*.
 
 **Cheng Guo**, Brianne Campbell, Apu Kapadia, Michael Reiter, Kelly Caine. (2021). Effect of Mood, Location, Trust, and Presence of Others on Video-Based Social Authentication. *In Proceedings of the 30th USENIX Security Symposium (USENIX Security' 21, conditionally accepted, to appear)*.
 ## 2020
