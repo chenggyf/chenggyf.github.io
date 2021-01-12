@@ -29,5 +29,5 @@ Previously, Cheng was a Visiting Researcher in the Human-Computer Interaction In
 - 2018.05 Doctoral Consortium accpeted @[PervasiveHealth '18](http://pervasivehealth.org/)
 - 2017.07 Tenth Annual Furman Summer Research Conference (Psychology & Neuroscience) @ [Furman University](http://www.furman.edu/academics/psychology/Pages/default.aspx) 
 - 2016.05 Ph.D. Research Intern @ [Verisign Labs](https://www.verisign.com/en_US/company-information/verisign-labs/technology-innovation-program/internship/index.xhtml)
-- 2015.05 Win [HFES Student Design Competition](http://newsstand.clemson.edu/mediarelations/students-health-application-wins-international-competition/)! [<a href='https://upstatebusinessjournal.com/news/clemson-team-wins-mobile-app-competition/'>Media</a>]
+- 2015.05 Win [HFES Student Design Competition](http://newsstand.clemson.edu/mediarelations/students-health-application-wins-international-competition/)! <a class='btn--research' href='https://upstatebusinessjournal.com/news/clemson-team-wins-mobile-app-competition/'>Media</a>
 - 2014.05 @ [PervasiveHealth '14](http://pervasivehealth.org/2014/show/home)
