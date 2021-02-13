@@ -15,5 +15,5 @@ author_profile: true
 ## 2018
 **Cheng Guo** (2018). Identity and Behavior in Online Health Communities. In *12th EAI International Conference on Pervasive Computing Technologies for Healthcare–Demos, Posters, Doctoral Colloquium*. <a class='btn--research' href='http://dx.doi.org/10.4108/eai.20-4-2018.2277569'>LINK</a> <a class='btn--research' href='/pervasivehealth2018-DC.pdf'>PDF</a>
 ## 2014
-Jamie L. Crawford, **Cheng Guo**, Jessica Schroeder, Rosa I. Arriaga, and Jennifer Mankoff (2014). Is it a question of trust?: how search preferences influence forum use. In *Proceedings of the 8th International Conference on Pervasive Computing Technologies for Healthcare* (pp. 118-125). <a class='btn--research' href='https://dl.acm.org/citation.cfm?id=2686910'>LINK</a> <a class='btn--research' href='/pervasivehealth2014-trust.pdf'>PDF</a>
+Jamie L. Crawford, **Cheng Guo**, Jessica Schroeder, Rosa I. Arriaga, and Jennifer Mankoff (2014). Is it a question of trust?: how search preferences influence forum use. In *Proceedings of the 8th International Conference on Pervasive Computing Technologies for Healthcare* (pp. 118-125). <a class='btn--research' href='https://dl.acm.org/doi/10.4108/icst.pervasivehealth.2014.254988'>LINK</a> <a class='btn--research' href='/pervasivehealth2014-trust.pdf'>PDF</a>
 
