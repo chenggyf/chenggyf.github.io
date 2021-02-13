@@ -20,7 +20,7 @@ Previously, Cheng was a Visiting Researcher in the Human-Computer Interaction In
 ### News
 - 2020.12 One paper has been accepted to [CSCW '21](https://cscw.acm.org/2021/)
 - 2020.12 Joined the Program Committee of [CHI '21 Later-Breaking Works](https://chi2021.acm.org/for-authors/presenting/late-breaking-work)
-- 2020.12 One paper has been conditioanlly accepted to [USENIX Security '21](https://www.usenix.org/conference/usenixsecurity21)
+- 2020.12 One paper has been ~~conditionally~~ accepted to [USENIX Security '21](https://www.usenix.org/conference/usenixsecurity21)
 - 2020.08 Recevied the HFES Healthcare Technical Group (HCTG) Scholarship to attend [HFES '20](https://www.hfes.org/events/2020-hfes-international-annual-meeting)
 - 2020.05 One paper has been accepted to [HFES '20](https://www.hfes.org/events/2020-hfes-international-annual-meeting)
 - 2020.01 @ [GROUP '20](https://group.acm.org/conferences/group20/)
