@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2021
-**Cheng Guo** and Kelly Caine. (2021). Anonymity, User Engagement, Quality, and Trolling on Question & Answer Sites. In *Proc.ACM Hum.-Comput.Interact.5, CSCW1, Article 141(CSCW '21, to appear)*.
+**Cheng Guo** and Kelly Caine. (2021). Anonymity, User Engagement, Quality, and Trolling on Question & Answer Sites. In *Proc.ACM Hum.-Comput.Interact.5, CSCW1, Article 141(CSCW '21, to appear)*. <a class='btn--research' href='/cscw2021-Q&A.pdf'>PDF</a>
 
-**Cheng Guo**, Brianne Campbell, Apu Kapadia, Michael Reiter, and Kelly Caine. (2021). Effect of Mood, Location, Trust, and Presence of Others on Video-Based Social Authentication. In *Proceedings of the 30th USENIX Security Symposium (USENIX Security '21, accepted, to appear)*.
+**Cheng Guo**, Brianne Campbell, Apu Kapadia, Michael Reiter, and Kelly Caine. (2021). Effect of Mood, Location, Trust, and Presence of Others on Video-Based Social Authentication. In *Proceedings of the 30th USENIX Security Symposium (USENIX Security '21, accepted, to appear)*. <a class='btn--research' href='/sec2021-authentication.pdf'>PDF</a>
 ## 2020
 **Cheng Guo** and Kelly Caine. (2020). Anonymity in Questions and Answers about Health. In *Proceedings of the Human Factors and Ergonomics Society Annual Meeting*, 64(1), 658-662. <a class='btn--research' href='https://journals.sagepub.com/doi/10.1177/1071181320641150'>LINK</a> <a class='btn--research' href='/hfes2020-health.pdf'>PDF</a>
 
