@@ -18,6 +18,7 @@ Previously, Cheng was a Visiting Researcher in the Human-Computer Interaction In
 </div>
 
 ### News
+- 2021.03 Joined the Programm Committee/Editorial Board of [PETS '22](https://www.petsymposium.org/)
 - 2021.03 Thanks to Clemson [Human Factors Institute](https://www.clemson.edu/centers-institutes/hfi/index.html) for the Director's Awards ($1000) to support my dissertation research!
 - 2020.12 One paper has been accepted to [CSCW '21](https://cscw.acm.org/2021/)
 - 2020.12 Joined the Program Committee of [CHI '21 Later-Breaking Works](https://chi2021.acm.org/for-authors/presenting/late-breaking-work)
