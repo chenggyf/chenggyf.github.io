@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Cheng Guo"
 title_separator          : "-"
-name                     : &name "Cheng Guo"
+name                     : &name "Cheng Guo (过程)"
 description              : &description "Human-Centered Computing PhD candidate (ABD) at Clemson University"
 url                      : https://chengguo.info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
