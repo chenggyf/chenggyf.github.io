@@ -14,6 +14,7 @@ Cheng holds a Master of Science in Information Science from the [University of P
 Previously, Cheng was a Visiting Researcher in the Human-Computer Interaction Institute at [Carnegie Mellon University](https://www.hcii.cmu.edu/) with Dr. [Jennifer Mankoff](https://make4all.org/people/jen-mankoff/). He also worked as a Ph.D. UX Research Intern at [Google](https://cloud.google.com/security) with Dr. [Rob Reeder](https://www.robreeder.com/), a Ph.D. Research Intern at [Verisign Labs](https://www.verisign.com/en_US/company-information/verisign-labs/index.xhtml) with Dr. [Eric Osterweil](https://cs.gmu.edu/directory/detail/79/), a Ph.D. Research Intern at [Brave](https://brave.com/) with Dr. [Ben Livshits](https://www.doc.ic.ac.uk/~livshits/), and a Software Engineer Intern at [AthleteTrax](https://athletetrax.info/).
 
 ### News
+- 2021.07 Thanks to SIGCHI for the [Gary Marsden Travel Awards](https://sigchi.org/awards/gary-marsden-travel-awards/)!
 - 2021.03 Joined the Programm Committee/Editorial Board of [PETS '22](https://www.petsymposium.org/)
 - 2021.03 Thanks to Clemson [Human Factors Institute](https://www.clemson.edu/centers-institutes/hfi/index.html) for the Director's Awards ($1000) to support my dissertation research!
 - 2020.12 One paper has been accepted to [CSCW '21](https://cscw.acm.org/2021/)
