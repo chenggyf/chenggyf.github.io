@@ -14,7 +14,7 @@ I hold a Master of Science in Information Science from the [University of Pittsb
 Previously, I was a Visiting Researcher in the Human-Computer Interaction Institute at [Carnegie Mellon University](https://www.hcii.cmu.edu/) with Dr. [Jennifer Mankoff](https://make4all.org/people/jen-mankoff/). I also worked as a Ph.D. UX Research Intern at [Google](https://cloud.google.com/security) with Dr. [Rob Reeder](https://www.robreeder.com/), a Ph.D. Research Intern at [Verisign Labs](https://www.verisign.com/en_US/company-information/verisign-labs/index.xhtml) with Dr. [Eric Osterweil](https://cs.gmu.edu/directory/detail/79/), a Ph.D. Research Intern at [Brave](https://brave.com/) with Dr. [Ben Livshits](https://www.doc.ic.ac.uk/~livshits/), and a Software Engineer Intern at [AthleteTrax](https://athletetrax.info/).
 
 ### Contact
-I am NOT the only person called Cheng Guo at Clemson University. There is another [Cheng Guo](https://chengg04.github.io/) and she is an Assistant Professor in the School of Mathematical & Statistical Sciences. To contact me, please use the information on the sidebar of this page.
+I am *NOT* the only person called Cheng Guo at Clemson University. There is another [Cheng Guo](https://chengg04.github.io/) and she is an Assistant Professor in the School of Mathematical & Statistical Sciences. To contact me, please use the information on the sidebar of this page.
 
 ### News
 - 2021.09 Joined [Google](https://www.google.com) as a User Experience Researcher
