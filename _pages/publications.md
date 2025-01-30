@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2025
-**Cheng Guo** and Kelly Caine. (2025). Throwaway Accounts and Moderation on Reddit. In *Symposium on Usable Security and Privacy (USEC) 2025*. Internet Society. <a class='btn--research' href='https://arxiv.org/abs/2501.17430'>LINK</a> <a class='btn--research' href='/Usec2025-throwaway.pdf'>PDF</a>
+**Cheng Guo** and Kelly Caine. (2025). Throwaway Accounts and Moderation on Reddit. In *Symposium on Usable Security and Privacy (USEC) 2025*. Internet Society. <a class='btn--research' href='https://arxiv.org/abs/2501.17430'>LINK</a> <a class='btn--research' href='/USec2025-throwaway.pdf'>PDF</a>
 ## 2021
 **Cheng Guo** and Kelly Caine. (2021). Anonymity, User Engagement, Quality, and Trolling on Question & Answer Sites. In *Proc.ACM Hum.-Comput.Interact.5, CSCW1, Article 141(CSCW '21)*. <a class='btn--research' href='https://dl.acm.org/doi/10.1145/3449215'>LINK</a> <a class='btn--research' href='/cscw2021-Q&A.pdf'>PDF</a>
 
